@@ -1,7 +1,9 @@
 # hello-world
 Learning Github
 ## Onboarding for CP 
--[x] Linux Course
--[ ] AWS course
+
+- [x] Linux course
+- [ ] AWS
+- [ ] Terraform
 
 >trying out Markdown elements
